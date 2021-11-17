@@ -11,6 +11,8 @@
 		F529105F2745446400FD8F69 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F529105E2745446400FD8F69 /* ContentView.swift */; };
 		F52910612745446700FD8F69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F52910602745446700FD8F69 /* Assets.xcassets */; };
 		F52910642745446700FD8F69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F52910632745446700FD8F69 /* Preview Assets.xcassets */; };
+		F529106B2745449C00FD8F69 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F529106A2745449C00FD8F69 /* SecondView.swift */; };
+		F529106D274544A900FD8F69 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F529106C274544A900FD8F69 /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F529105E2745446400FD8F69 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F52910602745446700FD8F69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F52910632745446700FD8F69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F529106A2745449C00FD8F69 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		F529106C274544A900FD8F69 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				F529105C2745446400FD8F69 /* SampleEnvironmentAppApp.swift */,
 				F529105E2745446400FD8F69 /* ContentView.swift */,
+				F529106A2745449C00FD8F69 /* SecondView.swift */,
+				F529106C274544A900FD8F69 /* ThirdView.swift */,
 				F52910602745446700FD8F69 /* Assets.xcassets */,
 				F52910622745446700FD8F69 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F529106D274544A900FD8F69 /* ThirdView.swift in Sources */,
+				F529106B2745449C00FD8F69 /* SecondView.swift in Sources */,
 				F529105F2745446400FD8F69 /* ContentView.swift in Sources */,
 				F529105D2745446400FD8F69 /* SampleEnvironmentAppApp.swift in Sources */,
 			);
